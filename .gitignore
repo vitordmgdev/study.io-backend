@@ -1,5 +1,2 @@
-node_modules/
-dist/
-*lock*
-.env
-.vscode
+node_modules
+.DS_Store
